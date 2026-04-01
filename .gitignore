@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
